@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 inputs/
+/engine
+/engine.debug
+/sample.in
+/single.out
+/parallel.out
